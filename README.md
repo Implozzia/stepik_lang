@@ -1,1 +1,1 @@
-# stepik_lang
+# Test for different language
